@@ -138,7 +138,7 @@ public class TimetableController {
 			break;
 			
 		case ConditionCodes.V_SELECT_TIMETABLE:
-			listTimetables();
+			//listTimetables();
 			break;
 
 		}
